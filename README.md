@@ -22,8 +22,8 @@ Brindar una herramienta didáctica para técnicos de sonido, estudiantes y profe
 
 ## 📬 Contacto
 Para consultas o colaboraciones:  
-📧 [tu-email@ejemplo.com]  *(reemplazá con tu email)*
+📧 [prof.maximilianovilchez@ipem37.edu.com]  *(reemplazá con tu email)*
 
 ---
 
-_Desarrollado por [Tu Nombre] como parte de la capacitación en ingeniería de sonido._
+_Desarrollado por Maximiliano Vilchez como parte de la capacitación en ingeniería de sonido._
